@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800" height="500">
+  <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" />
 <br><br>
 <h1 align="center">Helo👋, I'm Aswin</h1>
 <h3 align="center">A passionate full Stack developer</h3>
