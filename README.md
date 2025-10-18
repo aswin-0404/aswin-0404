@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" />
 <br><br>
-<h1 align="center">Helo👋, I'm Aswin</h1>
+<h1 align="center">Hello👋, I'm Aswin</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
 
