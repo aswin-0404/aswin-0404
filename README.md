@@ -13,7 +13,7 @@
   
  🌱 I’m currently learning **React,.Net**
   
- 👨‍💻 All of my projects are available at [[[aswin-0404/portfolio](aswin-0404/portfolio)](react-portfolio-diai.vercel.app)
+ 👨‍💻 All of my projects are available at [(react-portfolio-diai.vercel.app)]
  
  📫 How to reach me **aswinofficial101@gmail.com**
  
