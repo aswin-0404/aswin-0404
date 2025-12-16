@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin-0404" alt="aswin-0404" /></a> </p><br><br>
 <div align="center">
   
- 🌱 I’m currently learning **React,.Net**
+ 🌱 I’m currently learning **React,Python**
   
  👨‍💻 All of my projects are available at [react-portfolio-diai.vercel.app](https://react-portfolio-diai.vercel.app)
  
